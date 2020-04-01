@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * dkZafiro was here! >)
+* I'm the test_man! 8)
